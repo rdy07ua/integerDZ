@@ -38,13 +38,14 @@ public class Main {
  */
 
 
- /*
+
 
 
 
 
         // ЗАВДАННЯ 3.
         // Ну, щось типу калькулятора цілих чисел.
+        /*
 
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("Enter your first number (use just integer numbers please)");
